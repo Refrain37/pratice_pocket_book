@@ -16,6 +16,7 @@ export default function List() {
 
   return (
     <div className={'list-container'}>
+      <h2>支出明细</h2>
       <DataList className={'list'}>
         {data?.data.map((item,index) => (
           <ListItem
