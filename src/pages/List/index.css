@@ -1,0 +1,14 @@
+.list-container {
+    display: flex;
+}
+
+.list {
+    width: 92%;
+    margin: 30px auto 0 !important;
+}
+
+.item {
+    margin-top: 10px;
+    border-radius: 10px;
+    background-color: #eee;
+}
